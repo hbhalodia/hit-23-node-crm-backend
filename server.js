@@ -1,5 +1,5 @@
 
-/*
+/* Server .js file is this *//*
 //how we write function in java script
 var test = function (req,res){
     console.log("Hello")
